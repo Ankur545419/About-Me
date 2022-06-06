@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankur545419
 - 👀 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ankurguptag959@gmail.com
+- 📫 Reach me ankurguptag959@gmail.com
 
 <!---
 Ankur545419/Ankur545419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
